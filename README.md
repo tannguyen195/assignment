@@ -2,7 +2,9 @@
 ---
 
 ## ✨ Features
-
+- The project using React Three Fiber, @react-three/drei, NextJS, Typescript
+- Shadcdn for quick installation UI
+- Zustand for state management
 - Load `.glb` / `.gltf` 3D models
 - Orbit, pan, and zoom camera controls
 - **Text Tag Mode**
@@ -19,6 +21,7 @@
 - **Due to the limited time, the following improvements are planned: **
   - Improve camera smoothness and positioning when focusing on tags
   - Add full model rotation and positioning controls 
+  - Optimize multiple models rendering
 ---
 
 ## ✨ Installation
